@@ -96,8 +96,7 @@ p, li {
 
 <section id="about">
     <h2>Обо мне</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/BMW_E34_520i.jpg" alt="BMW E34">
-
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/BMW_E34_520i.jpg">
     <p><b>Имя:</b> Дастан</p>
     <p><b>Город:</b> Казахстан</p>
     <p><b>Интересы:</b> Веб-разработка, программирование</p>

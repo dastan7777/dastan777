@@ -120,8 +120,8 @@ p, li {
 
 <section id="contacts">
     <h2>Контакты</h2>
-    <a href="https://www.instagram.com/accounts/login/?next=%2Fdastikbl&source=omni_redirect" target="_blank">>Инстаграмм</a><br>
-    <a href="https://t.me/username" target="_blank">Написать в Telegram</a><br>
+    <a href="https://www.instagram.com/dastikbl?igsh=MTRjM280OHJmc21udA==" target="_blank">>Инстаграмм</a><br>
+    <a href="t.me/dastikbl">Написать в Telegram</a><br>
     <a href="https://github.com">GitHub</a><br>
 
 </section>

@@ -96,7 +96,8 @@ p, li {
 
 <section id="about">
     <h2>Обо мне</h2>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/BMW_M5_F90.jpg">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/BMW_E34_520i.jpg" alt="BMW E34">
+
     <p><b>Имя:</b> Дастан</p>
     <p><b>Город:</b> Казахстан</p>
     <p><b>Интересы:</b> Веб-разработка, программирование</p>
@@ -120,9 +121,10 @@ p, li {
 
 <section id="contacts">
     <h2>Контакты</h2>
-    <a href="https://www.instagram.com/accounts/login/?next=%2Fdastikbl&source=omni_redirect" target="_blank">Инстаграмм</a>
+    <a href="https://www.instagram.com/accounts/login/?next=%2Fdastikbl&source=omni_redirect" target="_blank">>Инстаграмм</a><br>
+    <a href="https://t.me/username" target="_blank">Написать в Telegram</a><br>
+    <a href="https://github.com">GitHub</a><br>
 
-    <a href="https://github.com/" target="_blank">Гитхаб</a>
 </section>
 
 <footer>

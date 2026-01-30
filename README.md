@@ -122,9 +122,7 @@ p, li {
     <h2>Контакты</h2>
     <a href="https://www.instagram.com/accounts/login/?next=%2Fdastikbl&source=omni_redirect" target="_blank">Инстаграмм</a>
 
-    <a href="https://web.telegram.org/a/" target="_blank">Телеграмм</a>
-
-  <a href="https://github.com/" target="_blank">Гитхаб</a>
+    <a href="https://github.com/" target="_blank">Гитхаб</a>
 </section>
 
 <footer>

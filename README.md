@@ -3,77 +3,54 @@
 <head>
 <meta charset="UTF-8">
 <title>Портфолио Дастана</title>
-
-<style>
-body {
-    font-family: Arial, sans-serif;
-    background-color: #eaeaf0;
+<style>body {
+    font-family: Arial;
     margin: 0;
+    background: #eaeaf0;
 }
 
-/* Контейнер */
 .container {
-    max-width: 900px;
+    width: 900px;
     margin: auto;
     background: white;
 }
 
-/* Header */
 header {
-    background-color: #4a90e2;
+    background: #4a90e2;
     color: white;
-    padding: 30px;
     text-align: center;
+    padding: 20px;
 }
 
-/* Navigation */
 nav {
-    background-color: #222;
+    background: #222;
     text-align: center;
-    padding: 15px;
+    padding: 10px;
 }
 
 nav a {
     color: white;
-    margin: 15px;
+    margin: 10px;
     text-decoration: none;
-    font-weight: bold;
-    font-size: 18px;
 }
 
-nav a:hover {
-    color: yellow;
-}
-
-/* Sections */
 section {
-    padding: 30px;
-    border-bottom: 1px solid #ddd;
+    padding: 20px;
+    border-bottom: 1px solid #ccc;
 }
 
-h1, h2 {
-    color: #333;
-}
-
-/* Avatar */
 .avatar {
     width: 160px;
     border-radius: 50%;
     display: block;
-    margin: 20px auto;
+    margin: 15px auto;
 }
 
-/* Footer */
 footer {
-    background-color: #222;
+    background: #222;
     color: white;
     text-align: center;
-    padding: 15px;
-}
-
-/* Desktop text */
-p, li {
-    font-size: 18px;
+    padding: 10px;
 }
 </style>
 </head>
